@@ -1,0 +1,76 @@
+{
+  "avatar": {
+    "src": "https://imgtu.com/i/bgsxKJ",
+    "hidden": false
+  },
+  "profile": {
+    "name": "段晓旭",
+    "email": "chengdx0925@126.com",
+    "mobile": "15848370746",
+    "wechat": "D115866",
+    "github": "https://github.com/Cheng-DX",
+    "workExpYear": "",
+    "positionTitle": ""
+  },
+  "educationList": [
+    {
+      "edu_time": ["2016.09.01", "now"],
+      "school": "东北大学",
+      "major": "软件工程",
+      "academic_degree": "本科"
+    }
+  ],
+  "awardList": [
+  ],
+  "workExpList": [
+    
+  ],
+  "skillList": [
+    {
+      "skill_name": "JavaScript",
+      "skill_desc": "熟悉 JS,有较为丰富的JS项目经验",
+      "skill_level": 80
+    },
+    {
+      "skill_name": "Vue.js",
+      "skill_desc": "熟悉 Vue.js,有较为丰富的Vue.js项目经验.熟练使用Vuex,Vue-Router,ElementUI,ECharts等常用库.目前正在积极学习Vue3和Vite,也有使用Vue3及setup语法糖的开源项目",
+      "skill_level": 80
+    },
+    {
+      "skill_name": "Java",
+      "skill_desc": "熟悉 Java,曾使用SpringBoot框架同Vue开发过前后端交互的项目,对前后端的交互和Api交流有丰富的经验",
+      "skill_level": 80
+    }
+  ],
+  "projectList": [
+    {
+      "project_name": "高炉炉温预报演变系统",
+      "project_role": "前端实现 核心模块设计",
+      "project_time": "2021.08 - 2021.12",
+      "project_desc": "“高炉炉温预报演变系统”是一个基于统计学原理的高炉内相关参数的预测和可视化项目.由上海宝山钢铁股份有限公司、东北大学冶金学院李海峰团队、东北大学软件学院黄利萍团队联合开发.该项目已于2021年12月交付",
+      "project_content": "1. 项目中核心模块“历史演变预测”前端和后端的设计与实现; \n2. 在“原始数据查询”模块,使用抽取组件的方式,提升了代码的可维护性和健壮性;\n 3. 由于项目使用echarts十分频繁,本人在项目期间封装了echarts组件,增加了图像全屏和数据视图两个实用工具,同时支持仅配置数据以生成图表,节约了时间和人力成本; \n4. 使用java注解和反射实现了前端使用同一个api查询不同数据库内的不同数据,减少了大量浪费时间的重复代码,大幅提升了可拓展性"
+    },
+    {
+      "project_name": "高炉布料可视化系统",
+      "project_role": "总负责人 模型搭建",
+      "project_time": "2022.01 - now",
+      "project_desc": "该系统是南京梅山钢铁同东北大学的合作项目,是高炉布料的模型搭建和可视化",
+      "project_content": "1. 前端和后端项目的架构设计,指导团队使用GitHubFlow进行合作;\n 2. 数据库的设计,关键布料模块的建模工作"
+    }
+  ],
+  "workList":[
+    {
+      "work_name":"vue-simple-template",
+      "work_desc":"足够简单:这是一个基于Vue.js的前端解决方案,基于本项目可以快速搭建一个包含路由、状态管理等多功能的大型Vue项目",
+      "visit_link":"https://github.com/Cheng-DX/vue-simple-template"
+    },
+    {
+      "work_name":"my-vue-echarts",
+      "work_desc":"封装了图像全屏工具、数据视图工具、快速模式的vue-echarts组件,支持仅使用配置数据生成图表",
+      "visit_link":"https://github.com/Cheng-DX/my-vue-echarts"
+    }
+  ],
+  "aboutme": {
+    "aboutme_desc": "🐱性格外向:爱好社交,善于沟通,能够快速融入团队氛围\n 🐻‍❄️较强的学习能力:自学前端知识,目前已经有丰富的项目经验\n 👻社区活跃:对开源社区有浓厚兴趣,目前仍在积极维护个人开源项目\n 🐶热爱生活:喜欢玩游戏,喜欢美食,喜欢旅游,喜欢尝试新技术 "
+  }
+}
